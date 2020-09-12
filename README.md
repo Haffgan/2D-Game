@@ -1,7 +1,15 @@
-# 2D Game
+# You can try the game by downloading the ZIP file, unpacking it and chosing the file in following directory:
+Use your arrows to controle the Hero.
+
+![](AssetsForReadme/1.jpg) 
+
+(Sorry, it will take some time and about 190mb hard-drive space).
+
+
+# 2D Game ("The 10th Planet")
+ 
  Second project of Game Dev class
  
-
 
 About the Game
 Description of the game. 
